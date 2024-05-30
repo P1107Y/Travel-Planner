@@ -1,6 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13053171&assignment_repo_type=AssignmentRepo)
-# CS 442 MP5: Final Project
-
 ## Travel Planner Application
 Welcome to the Travel Planner application! This application is designed to assist users in planning their travel for various popular destinations. Below is an overview of the features and functionality provided by the Travel Planner. The prices shown in the application are during the trip (like stay, food and local travel) but travel to destination is not included.
 
