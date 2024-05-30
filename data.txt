@@ -1,0 +1,225 @@
+json
+{
+  "cities": [
+    {
+      "name": "New York",
+      "costs": {
+        "1_day": "USD 250",
+        "3_days": "USD 800",
+        "5_days": "USD 1,500",
+        "7_days": "USD 2,000",
+        "10_days": "USD 2,500",
+        "15_days": "USD 3,500"
+      }
+    },
+    {
+      "name": "Las Vegas",
+      "costs": {
+        "1_day": "USD 150",
+        "3_days": "USD 400",
+        "5_days": "USD 800",
+        "7_days": "USD 1,200",
+        "10_days": "USD 1,500",
+        "15_days": "USD 2,000"
+      }
+    },
+    {
+      "name": "Hawaii",
+      "costs": {
+        "1_day": "USD 300",
+        "3_days": "USD 1,000",
+        "5_days": "USD 2,500",
+        "7_days": "USD 3,500",
+        "10_days": "USD 4,500",
+        "15_days": "USD 6,000"
+      }
+    },
+    {
+      "name": "London",
+      "costs": {
+        "1_day": "GBP 150",
+        "3_days": "GBP 500",
+        "5_days": "GBP 1,200",
+        "7_days": "GBP 1,800",
+        "10_days": "GBP 2,500",
+        "15_days": "GBP 3,500"
+      }
+    },
+    {
+      "name": "Paris",
+      "costs": {
+        "1_day": "EUR 100",
+        "3_days": "EUR 300",
+        "5_days": "EUR 900",
+        "7_days": "EUR 1,300",
+        "10_days": "EUR 1,800",
+        "15_days": "EUR 2,500"
+      }
+    },
+    {
+      "name": "Rome",
+      "costs": {
+        "1_day": "EUR 120",
+        "3_days": "EUR 400",
+        "5_days": "EUR 1,000",
+        "7_days": "EUR 1,500",
+        "10_days": "EUR 2,000",
+        "15_days": "EUR 2,800"
+      }
+    },
+    {
+      "name": "Dubai",
+      "costs": {
+        "1_day": "AED 500",
+        "3_days": "AED 1,000",
+        "5_days": "AED 4,000",
+        "7_days": "AED 6,000",
+        "10_days": "AED 8,000",
+        "15_days": "AED 10,000"
+      }
+    },
+    {
+      "name": "Singapore",
+      "costs": {
+        "1_day": "SGD 150",
+        "3_days": "SGD 400",
+        "5_days": "SGD 1,800",
+        "7_days": "SGD 2,500",
+        "10_days": "SGD 3,500",
+        "15_days": "SGD 5,000"
+      }
+    },
+    {
+      "name": "Delhi",
+      "costs": {
+        "1_day": "INR 2,000",
+        "3_days": "INR 5,000",
+        "5_days": "INR 30,000",
+        "7_days": "INR 40,000",
+        "10_days": "INR 50,000",
+        "15_days": "INR 70,000"
+      }
+    },
+    {
+      "name": "Sydney",
+      "costs": {
+        "1_day": "AUD 200",
+        "3_days": "AUD 600",
+        "5_days": "AUD 2,500",
+        "7_days": "AUD 3,500",
+        "10_days": "AUD 4,500",
+        "15_days": "AUD 6,000"
+      }
+    },
+    {
+      "name": "Tokyo",
+      "costs": {
+        "1_day": "JPY 15,000",
+        "3_days": "JPY 40,000",
+        "5_days": "JPY 150,000",
+        "7_days": "JPY 200,000",
+        "10_days": "JPY 250,000",
+        "15_days": "JPY 350,000"
+      }
+    },
+    {
+      "name": "Rio de Janeiro",
+      "costs": {
+        "1_day": "BRL 300",
+        "3_days": "BRL 600",
+        "5_days": "BRL 3,000",
+        "7_days": "BRL 4,000",
+        "10_days": "BRL 5,000",
+        "15_days": "BRL 7,000"
+      }
+    },
+    {
+      "name": "Melbourne",
+      "costs": {
+        "1_day": "AUD 500",
+        "3_days": "AUD 1,200",
+        "5_days": "AUD 2,800",
+        "7_days": "AUD 3,800",
+        "10_days": "AUD 5,000",
+        "15_days": "AUD 7,000"
+      }
+    },
+    {
+      "name": "Beijing",
+      "costs": {
+        "1_day": "CNY 1,000",
+        "3_days": "CNY 2,500",
+        "5_days": "CNY 5,000",
+        "7_days": "CNY 6,500",
+        "10_days": "CNY 8,000",
+        "15_days": "CNY 10,000"
+      }
+    },
+    {
+      "name": "Mexico City",
+      "costs": {
+        "1_day": "MXN 2,000",
+        "3_days": "MXN 5,000",
+        "5_days": "MXN 10,000",
+        "7_days": "MXN 12,000",
+        "10_days": "MXN 15,000",
+        "15_days": "MXN 20,000"
+      }
+    },
+    {
+      "name": "Cape Town",
+      "costs": {
+        "1_day": "ZAR 1,000",
+        "3_days": "ZAR 2,500",
+        "5_days": "ZAR 5,000",
+        "7_days": "ZAR 7,000",
+        "10_days": "ZAR 10,000",
+        "15_days": "ZAR 15,000"
+      }
+    },
+    {
+      "name": "Mumbai",
+      "costs": {
+        "1_day": "INR 3,000",
+        "3_days": "INR 5,000",
+        "5_days": "INR 15,000",
+        "7_days": "INR 20,000",
+        "10_days": "INR 25,000",
+        "15_days": "INR 30,000"
+      }
+    },
+    {
+      "name": "Istanbul",
+      "costs": {
+        "1_day": "TRY 500",
+        "3_days": "TRY 1,000",
+        "5_days": "TRY 2,500",
+        "7_days": "TRY 3,500",
+        "10_days": "TRY 5,000",
+        "15_days": "TRY 7,000"
+      }
+    },
+    {
+      "name": "Geneva",
+      "costs": {
+        "1_day": "CHF 600",
+        "3_days": "CHF 1,200",
+        "5_days": "CHF 3,000",
+        "7_days": "CHF 4,000",
+        "10_days": "CHF 6,000",
+        "15_days": "CHF 8,000"
+      }
+    },
+    {
+      "name": "Venice",
+      "costs": {
+        "1_day": "EUR 350",
+        "3_days": "EUR 1,000",
+        "5_days": "EUR 1,800",
+        "7_days": "EUR 2,500",
+        "10_days": "EUR 3,500",
+        "15_days": "EUR 4,500"
+      }
+    }
+  ]
+}
