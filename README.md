@@ -27,9 +27,3 @@ The currency conversion dynamically uses an API to ensure accurate and up-to-dat
 Users also have the option to save the plan for future reference.
 
 Enjoy planning your travels with the Travel Planner application!
-
-## 6. Submission
-
-To submit your machine problem, commit and push your code to the "main" branch in your private GitHub repository shared with us. You can make as many commits and pushes as needed; we will assess the most recent version of your code pushed before the deadline.
-
-Note that you may NOT apply late days to this machine problem. If you do not submit your code before the deadline, you will receive a zero for the assignment.
